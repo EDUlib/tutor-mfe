@@ -31,7 +31,7 @@ config = {
         },
         "LEARNING_MFE_APP": {
             "name": "learning",
-            "repository": "https://github.com/edx/frontend-app-learning",
+            "repository": "https://github.com/edulib/frontend-app-learning",
             "port": 2000,
         },
         "PROFILE_MFE_APP": {
