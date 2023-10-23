@@ -33,7 +33,7 @@ config = {
         },
         "ACCOUNT_MFE_APP": {
             "name": "account",
-            "repository": "https://github.com/openedx/frontend-app-account",
+            "repository": "https://github.com/edulib/frontend-app-account",
             "port": 1997,
         },
         "COURSE_AUTHORING_MFE_APP": {
